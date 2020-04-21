@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "amethyst_pickaxe",
+    "customModelName": "Normal",
+    "name": "Amethyst Pickaxe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 25,
+    "damageVsEntity": 7.0,
+    "usageCount": 569,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

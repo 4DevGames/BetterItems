@@ -1,0 +1,95 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Upgrade",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Upgrade",
+          "x": 268,
+          "y": 90
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 268,
+          "y": 146
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 407,
+          "y": 143
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "name": "Slot #2",
+          "x": 550,
+          "y": 140
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "+",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "+",
+          "x": 351,
+          "y": 150
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Combine",
+          "width": 140,
+          "height": 40,
+          "name": "Combine",
+          "x": 287,
+          "y": 189
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Output",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Output",
+          "x": 533,
+          "y": 104
+        }
+      }
+    ]
+  }
+}

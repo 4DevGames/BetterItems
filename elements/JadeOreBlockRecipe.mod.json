@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:JadeGem"
+      },
+      {
+        "value": "CUSTOM:JadeGem"
+      },
+      {
+        "value": "CUSTOM:JadeGem"
+      },
+      {
+        "value": "CUSTOM:JadeGem"
+      },
+      {
+        "value": "CUSTOM:JadeGem"
+      },
+      {
+        "value": "CUSTOM:JadeGem"
+      },
+      {
+        "value": "CUSTOM:JadeGem"
+      },
+      {
+        "value": "CUSTOM:JadeGem"
+      },
+      {
+        "value": "CUSTOM:JadeGem"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JadeOreBlock"
+    },
+    "name": "jadeoreblockrecipe",
+    "namespace": "mod"
+  }
+}

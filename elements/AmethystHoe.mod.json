@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "amethyst_hoe",
+    "customModelName": "Normal",
+    "name": "Amethyst Hoe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 5.0,
+    "enchantability": 25,
+    "damageVsEntity": 1.0,
+    "usageCount": 569,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

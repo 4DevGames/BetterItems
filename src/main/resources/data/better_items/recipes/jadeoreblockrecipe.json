@@ -1,0 +1,42 @@
+{
+  "group": "better_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "better_items:jadegem"
+    },
+    "1": {
+      "item": "better_items:jadegem"
+    },
+    "2": {
+      "item": "better_items:jadegem"
+    },
+    "3": {
+      "item": "better_items:jadegem"
+    },
+    "4": {
+      "item": "better_items:jadegem"
+    },
+    "5": {
+      "item": "better_items:jadegem"
+    },
+    "6": {
+      "item": "better_items:jadegem"
+    },
+    "7": {
+      "item": "better_items:jadegem"
+    },
+    "8": {
+      "item": "better_items:jadegem"
+    }
+  },
+  "result": {
+    "item": "better_items:jadeoreblock",
+    "count": 1
+  }
+}

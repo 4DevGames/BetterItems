@@ -1,0 +1,29 @@
+{
+  "group": "better_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "better_items:amethystgem"
+    },
+    "1": {
+      "item": "better_items:amethystgem"
+    },
+    "2": {
+      "item": "better_items:amethystgem"
+    },
+    "3": {
+      "item": "better_items:amethystgem"
+    },
+    "5": {
+      "item": "better_items:amethystgem"
+    }
+  },
+  "result": {
+    "item": "better_items:amethystarmorhelmet",
+    "count": 1
+  }
+}
