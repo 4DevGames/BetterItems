@@ -1,0 +1,32 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "vannila_expansion_m:junglebricks"
+    },
+    "1": {
+      "item": "vannila_expansion_m:junglebricks"
+    },
+    "2": {
+      "item": "vannila_expansion_m:junglebricks"
+    },
+    "3": {
+      "item": "vannila_expansion_m:junglebricks"
+    },
+    "4": {
+      "item": "vannila_expansion_m:junglebricks"
+    },
+    "5": {
+      "item": "vannila_expansion_m:junglebricks"
+    }
+  },
+  "result": {
+    "item": "vannila_expansion_m:junglebrickwalls",
+    "count": 8
+  }
+}

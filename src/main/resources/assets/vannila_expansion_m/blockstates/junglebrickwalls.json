@@ -1,0 +1,51 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "vannila_expansion_m:block/junglebrickwalls_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "vannila_expansion_m:block/junglebrickwalls",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "vannila_expansion_m:block/junglebrickwalls",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "vannila_expansion_m:block/junglebrickwalls",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "vannila_expansion_m:block/junglebrickwalls",
+        "y": 90,
+        "uvlock": true
+      }
+    }
+  ]
+}

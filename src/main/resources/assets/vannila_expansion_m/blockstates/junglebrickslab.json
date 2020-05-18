@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "vannila_expansion_m:block/junglebrickslab"
+    },
+    "type=top": {
+      "model": "vannila_expansion_m:block/junglebrickslab_top"
+    },
+    "type=double": {
+      "model": "vannila_expansion_m:block/junglebrickslab_full"
+    }
+  }
+}

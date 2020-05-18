@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "vannila_expansion_m:blocks/jungle_bricks",
+    "particle": "vannila_expansion_m:blocks/jungle_bricks"
+  }
+}

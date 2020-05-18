@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.MAGMA"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Item of Doom",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "doom_igniter",
+    "portalTexture": "portalofdoom",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Doom"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.NETHERRACK"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.NETHER_WART_BLOCK"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.QUARTZ_ORE"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "airColor": {
+      "value": -13434880,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "hasWeather": false,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": "music.nether"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 389,
+    "height": 350,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Upgrade",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Upgrade",
+          "x": 248,
+          "y": 80
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1000,
+          "name": "Slot #1000",
+          "x": 264,
+          "y": 140
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1001,
+          "name": "Slot #1001",
+          "x": 412,
+          "y": 141
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1002,
+          "name": "Slot #1002",
+          "x": 545,
+          "y": 140
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Upgrade",
+          "width": 140,
+          "height": 40,
+          "name": "Upgrade",
+          "x": 350,
+          "y": 189
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "anvil-plus.png",
+          "name": "anvil-plus.png",
+          "x": 345,
+          "y": 153
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow_active.png",
+          "name": "arrow_active.png",
+          "x": 485,
+          "y": 152
+        }
+      }
+    ]
+  }
+}

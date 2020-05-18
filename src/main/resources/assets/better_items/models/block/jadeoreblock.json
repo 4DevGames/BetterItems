@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "better_items:blocks/new_jade_block",
-    "particle": "better_items:blocks/new_jade_block"
-  }
-}

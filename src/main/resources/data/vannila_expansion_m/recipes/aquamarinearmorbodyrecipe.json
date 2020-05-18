@@ -1,0 +1,39 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "2": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "3": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "4": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "5": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "6": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "7": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "8": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    }
+  },
+  "result": {
+    "item": "vannila_expansion_m:aquamarinearmorbody",
+    "count": 1
+  }
+}

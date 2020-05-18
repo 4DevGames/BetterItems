@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aquamarine_hoe",
+    "customModelName": "Normal",
+    "name": "Aquamarine Hoe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 5,
+    "efficiency": 10.0,
+    "attackSpeed": 6.0,
+    "enchantability": 34,
+    "damageVsEntity": 1.0,
+    "usageCount": 852,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

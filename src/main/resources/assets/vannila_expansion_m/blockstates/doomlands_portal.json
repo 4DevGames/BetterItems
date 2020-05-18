@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "vannila_expansion_m:block/doomlands_portal_ew"
+    },
+    "axis=x": {
+      "model": "vannila_expansion_m:block/doomlands_portal_ns"
+    }
+  }
+}

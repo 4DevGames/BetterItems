@@ -1,0 +1,29 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "vannila_expansion_m:amethystgem"
+    },
+    "1": {
+      "item": "vannila_expansion_m:amethystgem"
+    },
+    "2": {
+      "item": "vannila_expansion_m:amethystgem"
+    },
+    "3": {
+      "item": "vannila_expansion_m:amethystgem"
+    },
+    "5": {
+      "item": "vannila_expansion_m:amethystgem"
+    }
+  },
+  "result": {
+    "item": "vannila_expansion_m:amethystarmorhelmet",
+    "count": 1
+  }
+}

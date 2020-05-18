@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Potion Of Stunning",
+    "effectName": "Potion Of Stunning",
+    "icon": "stunning_effect.png",
+    "color": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "curativeItems": [
+      {
+        "value": "Items.MILK_BUCKET"
+      }
+    ],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "PotionOfStunningPotionStartedapplied"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "ingredient": {
+    "item": "vannila_expansion_m:jadeore"
+  },
+  "result": {
+    "item": "vannila_expansion_m:jadegem"
+  }
+}

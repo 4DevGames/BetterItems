@@ -1,0 +1,30 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "vannila_expansion_m:amethystgem"
+    },
+    "1": {
+      "item": "vannila_expansion_m:amethystgem"
+    },
+    "2": {
+      "item": "vannila_expansion_m:amethystgem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "vannila_expansion_m:amethystpickaxe",
+    "count": 1
+  }
+}

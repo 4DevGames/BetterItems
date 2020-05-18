@@ -1,0 +1,26 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "2": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "3": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    },
+    "5": {
+      "item": "vannila_expansion_m:aquamarinegem"
+    }
+  },
+  "result": {
+    "item": "vannila_expansion_m:aquamarinearmorboots",
+    "count": 1
+  }
+}

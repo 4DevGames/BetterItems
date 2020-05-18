@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vannila_expansion_m:blocks/mossy_jungle_bricks",
+    "up": "vannila_expansion_m:blocks/mossy_jungle_bricks",
+    "north": "vannila_expansion_m:blocks/mossy_jungle_bricks",
+    "east": "vannila_expansion_m:blocks/mossy_jungle_bricks",
+    "south": "vannila_expansion_m:blocks/mossy_jungle_bricks",
+    "west": "vannila_expansion_m:blocks/mossy_jungle_bricks",
+    "particle": "vannila_expansion_m:blocks/mossy_jungle_bricks"
+  }
+}

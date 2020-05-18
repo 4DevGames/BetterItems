@@ -2,14 +2,18 @@ modLoader="javafml"
 loaderVersion="[28,)"
 
 [[mods]]
-modId="better_items"
-version="Alpha 0.5.0"
-displayName="Better Items"
+modId="vannila_expansion_m"
+version="Beta 1.1.1"
+displayName="M's Vanilla Expansion"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
+logoFile="logo.png"
 authors="IkBenPro1607"
+description='''
+Adds many cool items!
+'''
 
-[[dependencies.better_items]]
+[[dependencies.vannila_expansion_m]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.14.4]"

@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aquamarine_axe",
+    "customModelName": "Normal",
+    "name": "Aquamarine Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 10.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 34,
+    "damageVsEntity": 10.0,
+    "usageCount": 852,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

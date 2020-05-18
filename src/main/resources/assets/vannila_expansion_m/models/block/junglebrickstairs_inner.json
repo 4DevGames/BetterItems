@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "vannila_expansion_m:blocks/jungle_bricks",
+    "top": "vannila_expansion_m:blocks/jungle_bricks",
+    "side": "vannila_expansion_m:blocks/jungle_bricks"
+  }
+}

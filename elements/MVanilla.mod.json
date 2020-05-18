@@ -1,0 +1,52 @@
+{
+  "_fv": 6,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGHEST",
+    "conditionxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"condition_input\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"CONDITION\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value></block></xml>",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "M's Vanilla Expansion",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "M's Vanilla Expansion",
+          "x": 19,
+          "y": 400
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Beta 1.1.0",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Beta 1.1.0",
+          "x": 19,
+          "y": 453
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "By RedWitherYT",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "By RedWitherYT",
+          "x": 18,
+          "y": 421
+        }
+      }
+    ],
+    "baseTexture": "",
+    "baseTextureW": 0,
+    "baseTextureH": 0
+  }
+}

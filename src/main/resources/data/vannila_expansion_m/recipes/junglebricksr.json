@@ -1,0 +1,11 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "ingredient": {
+    "item": "vannila_expansion_m:mossyjunglebricks"
+  },
+  "result": {
+    "item": "vannila_expansion_m:junglebricks"
+  }
+}

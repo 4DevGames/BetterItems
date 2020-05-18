@@ -1,0 +1,20 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "3": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "vannila_expansion_m:doomlands",
+    "count": 1
+  }
+}

@@ -1,0 +1,832 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "AmethystOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystOreBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystGem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystsword"
+    },
+    {
+      "name": "AmethystShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AmethystArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AmethystApple",
+      "type": "food",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AmethystAppleR",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OMG",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OP",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JadeOre",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JadeOreBlock",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JadeGem",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JadeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JadeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JadeOreSmelting",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JadeTotemNewRightClickedInAir",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JadeTotemNewRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JadeTotemNew",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Invincible",
+      "type": "achievement",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Junglestone",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JungleBricks",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JungleBricksR",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JungleBrickWalls",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JungleBrickSlab",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JungleBrickStairs",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JBW",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JBSL",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JBST",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JungleHouse",
+      "type": "structure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MossyJungleBricks",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JadeBrickR",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JadeTotemR",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineOre",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineOreBlock",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineGem",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineOreSmelting",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarinePickaxe",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineAxe",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineSword",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineShovel",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineHoe",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarinePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineAxeRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineSwordRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineShovelRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineHoeRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineArmor",
+      "type": "armor",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AquamarineArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SuperSaddle",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Undergroundzombie",
+      "type": "mob",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slimesling",
+      "type": "gun",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SlimeslingBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "UpgradeTable",
+      "type": "gui",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MVanilla",
+      "type": "overlay",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PotionOfStunningPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PotionOfStunning",
+      "type": "potion",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Doom",
+      "type": "biome",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Doomlands",
+      "type": "dimension",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Whatshoulditbe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dummy",
+      "type": "mob",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.vannila_expansion_m.amethystaxe": "Amethyst Axe",
+      "block.vannila_expansion_m.aquamarineoreblock": "Block of Aquamarine",
+      "item.minecraft.splash_potion.effect.potionofstunning": "Splash Potion Of Stunning",
+      "item.vannila_expansion_m.aquamarinegem": "Aquamarine",
+      "advancements.omg.descr": "Get some Amethyst",
+      "item.minecraft.potion.effect.potionofstunning": "Potion Of Stunning",
+      "block.better_items.aquamarineoreblock": "Block of Aquamarine",
+      "item.vannila_expansion_m.amethystpickaxe": "Amethyst Pickaxe",
+      "block.vannila_expansion_m.junglebrickwalls": "Jungle Brick Wall",
+      "item.minecraft.tipped_arrow.effect.potionofstunning": "Arrow of Potion Of Stunning",
+      "item.better_items.amethystapple": "Amethyst Apple",
+      "block.better_items.junglebrickstairs": "Jungle Brick Stairs",
+      "block.vannila_expansion_m.amethystore": "Amethyst Ore",
+      "item.better_items.aquamarineaxe": "Aquamarine Axe",
+      "item.better_items.aquamarinearmorbody": "Aquamarine Chestplate",
+      "item.better_items.aquamarinearmorlegs": "Aquamarine Leggings",
+      "block.vannila_expansion_m.junglebricks": "Clean Jungle Bricks",
+      "item.vannila_expansion_m.aquamarinearmorlegs": "Aquamarine Leggings",
+      "block.better_items.junglebricks": "Clean Jungle Bricks",
+      "block.better_items.mossyjunglebricks": "Jungle Bricks",
+      "item.better_items.undergroundzombie": "Undergroundzombie Spawn Egg",
+      "block.vannila_expansion_m.amethystoreblock": "Block of Amethyst",
+      "item.vannila_expansion_m.aquamarinearmorboots": "Aquamarine Boots",
+      "item.vannila_expansion_m.amethystsword": "Amethyst Sword",
+      "item.vannila_expansion_m.jadegem": "Jade",
+      "item.minecraft.lingering_potion.effect.potionofstunning": "Lingering Potion Of Stunning",
+      "item.vannila_expansion_m.amethystarmorhelmet": "Amethyst Helmet",
+      "entity.vannila_expansion_m.undergroundzombie": "Doomzombie",
+      "block.vannila_expansion_m.junglebrickslab": "Jungle Brick Slab",
+      "entity.vannila_expansion_m.dummy": "Dummy",
+      "block.better_items.amethystoreblock": "Block of Amethyst",
+      "advancements.omg.title": "OMG",
+      "item.vannila_expansion_m.amethystarmorlegs": "Amethyst Leggings",
+      "item.better_items.amethystaxe": "Amethyst Axe",
+      "item.vannila_expansion_m.amethystarmorbody": "Amethyst Chestplate",
+      "item.vannila_expansion_m.aquamarinesword": "Aquamarine Sword",
+      "item.better_items.amethystarmorboots": "Amethyst Boots",
+      "item.better_items.aquamarinesword": "Aquamarine Sword",
+      "advancements.invincible.descr": "Use your Jade Totem",
+      "block.better_items.aquamarineore": "Aquamarine Ore",
+      "item.vannila_expansion_m.amethystshovel": "Amethyst Shovel",
+      "block.vannila_expansion_m.mossyjunglebricks": "Jungle Bricks",
+      "item.better_items.amethystpickaxe": "Amethyst Pickaxe",
+      "item.better_items.aquamarinehoe": "Aquamarine Hoe",
+      "item.vannila_expansion_m.doomlands": "Item of Doom",
+      "item.vannila_expansion_m.amethystgem": "Amethyst",
+      "item.vannila_expansion_m.undergroundzombie": "Doomzombie Spawn Egg",
+      "item.vannila_expansion_m.aquamarineaxe": "Aquamarine Axe",
+      "item.better_items.amethystarmorbody": "Amethyst Chestplate",
+      "advancements.op.title": "OP",
+      "block.better_items.junglebrickslab": "Jungle Brick Slab",
+      "item.better_items.aquamarinepickaxe": "Aquamarine Pickaxe",
+      "item.vannila_expansion_m.amethystapple": "Amethyst Apple",
+      "item.better_items.amethystarmorlegs": "Amethyst Leggings",
+      "item.better_items.amethystgem": "Amethyst",
+      "block.vannila_expansion_m.junglestone": "Junglestone",
+      "biome.vannila_expansion_m.doom": "Doom",
+      "item.better_items.aquamarinearmorhelmet": "Aquamarine Helmet",
+      "item.better_items.aquamarinegem": "Aquamarine",
+      "block.vannila_expansion_m.junglebrickstairs": "Jungle Brick Stairs",
+      "item.vannila_expansion_m.amethysthoe": "Amethyst Hoe",
+      "item.better_items.aquamarineshovel": "Aquamarine Shovel",
+      "item.vannila_expansion_m.aquamarineshovel": "Aquamarine Shovel",
+      "block.better_items.junglebrickwalls": "Jungle Brick Wall",
+      "block.vannila_expansion_m.jadeore": "Jade Ore",
+      "item.better_items.jadegem": "Jade",
+      "item.better_items.aquamarinearmorboots": "Aquamarine Boots",
+      "item.vannila_expansion_m.jadetotemnew": "Jade Totem",
+      "block.better_items.junglestone": "Junglestone",
+      "item.vannila_expansion_m.aquamarinearmorhelmet": "Aquamarine Helmet",
+      "entity.better_items.undergroundzombie": "Undergroundzombie",
+      "item.better_items.amethysthoe": "Amethyst Hoe",
+      "item.vannila_expansion_m.aquamarinearmorbody": "Aquamarine Chestplate",
+      "block.vannila_expansion_m.jadeoreblock": "Block of Jade",
+      "item.vannila_expansion_m.dummy": "Dummy Spawn Egg",
+      "item.vannila_expansion_m.amethystarmorboots": "Amethyst Boots",
+      "item.vannila_expansion_m.aquamarinepickaxe": "Aquamarine Pickaxe",
+      "item.better_items.amethystarmorhelmet": "Amethyst Helmet",
+      "item.better_items.amethystsword": "Amethyst Sword",
+      "block.better_items.amethystore": "Amethyst Ore",
+      "advancements.op.descr": "EAT AN OP APPLE",
+      "effect.potionofstunning": "Potion Of Stunning",
+      "item.better_items.amethystshovel": "Amethyst Shovel",
+      "item.better_items.jadetotemnew": "Jade Totem",
+      "item.vannila_expansion_m.aquamarinehoe": "Aquamarine Hoe",
+      "item.vannila_expansion_m.slimesling": "Slimeshot",
+      "block.better_items.jadeore": "Jade Ore",
+      "block.better_items.jadeoreblock": "Block of Jade",
+      "advancements.invincible.title": "Invincible",
+      "block.vannila_expansion_m.aquamarineore": "Aquamarine Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "vannila_expansion_m",
+    "modName": "M\u0027s Vanilla Expansion",
+    "version": "Beta 1.1.1",
+    "description": "Adds many cool items!",
+    "author": "IkBenPro1607",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "stunning_effect",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.vanilla_expansion_m",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

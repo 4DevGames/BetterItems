@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "vannila_expansion_m:blocks/jungle_bricks",
+    "particle": "vannila_expansion_m:blocks/jungle_bricks"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:smelting",
+  "experience": 1.68,
+  "ingredient": {
+    "item": "vannila_expansion_m:aquamarineore"
+  },
+  "result": {
+    "item": "vannila_expansion_m:aquamarinegem"
+  }
+}

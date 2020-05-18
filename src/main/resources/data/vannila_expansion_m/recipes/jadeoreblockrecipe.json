@@ -1,0 +1,42 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vannila_expansion_m:jadegem"
+    },
+    "1": {
+      "item": "vannila_expansion_m:jadegem"
+    },
+    "2": {
+      "item": "vannila_expansion_m:jadegem"
+    },
+    "3": {
+      "item": "vannila_expansion_m:jadegem"
+    },
+    "4": {
+      "item": "vannila_expansion_m:jadegem"
+    },
+    "5": {
+      "item": "vannila_expansion_m:jadegem"
+    },
+    "6": {
+      "item": "vannila_expansion_m:jadegem"
+    },
+    "7": {
+      "item": "vannila_expansion_m:jadegem"
+    },
+    "8": {
+      "item": "vannila_expansion_m:jadegem"
+    }
+  },
+  "result": {
+    "item": "vannila_expansion_m:jadeoreblock",
+    "count": 1
+  }
+}

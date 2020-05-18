@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "vannila_expansion_m:blocks/amethyst_ore",
+    "particle": "vannila_expansion_m:blocks/amethyst_ore"
+  }
+}

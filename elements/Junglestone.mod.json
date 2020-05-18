@@ -2,12 +2,12 @@
   "_fv": 6,
   "_type": "block",
   "definition": {
-    "texture": "jungle_stone",
-    "textureTop": "jungle_stone",
-    "textureLeft": "jungle_stone",
-    "textureFront": "jungle_stone",
-    "textureRight": "jungle_stone",
-    "textureBack": "jungle_stone",
+    "texture": "mossy_jungle_stone",
+    "textureTop": "mossy_jungle_stone",
+    "textureLeft": "mossy_jungle_stone",
+    "textureFront": "mossy_jungle_stone",
+    "textureRight": "mossy_jungle_stone",
+    "textureBack": "mossy_jungle_stone",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -52,7 +52,7 @@
     "flammability": 0,
     "fireSpreadSpeed": 0,
     "isLadder": false,
-    "slipperiness": 0.30000000000000004,
+    "slipperiness": 0.6,
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
@@ -100,9 +100,18 @@
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"
+      },
+      {
+        "value": "Blocks.STONE#3"
+      },
+      {
+        "value": "Blocks.STONE#1"
+      },
+      {
+        "value": "Blocks.STONE#5"
       }
     ],
-    "frequencyPerChunks": 11,
+    "frequencyPerChunks": 24,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
     "maxGenerateHeight": 163

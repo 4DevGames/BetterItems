@@ -1,0 +1,109 @@
+{
+  "_fv": 6,
+  "_type": "mob",
+  "definition": {
+    "mobName": "Doomzombie",
+    "mobLabel": "",
+    "mobModelTexture": "zombie.png",
+    "mobModelName": "Biped",
+    "modelWidth": 0.6,
+    "modelHeight": 1.8,
+    "modelShadowSize": 0.5,
+    "armorBaseValue": 0.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -13434880,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -13408768,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "isBoss": false,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": "Items.STONE_SWORD"
+    },
+    "equipmentOffHand": {
+      "value": ""
+    },
+    "equipmentHelmet": {
+      "value": ""
+    },
+    "equipmentBody": {
+      "value": "Items.IRON_CHESTPLATE"
+    },
+    "equipmentLeggings": {
+      "value": "Items.CHAINMAIL_LEGGINGS"
+    },
+    "equipmentBoots": {
+      "value": "Items.CHAINMAIL_BOOTS"
+    },
+    "mobBehaviourType": "Mob",
+    "mobCreatureType": "UNDEAD",
+    "attackStrength": 8,
+    "movementSpeed": 0.4,
+    "trackingRange": 50,
+    "health": 24,
+    "xpAmount": 12,
+    "waterMob": false,
+    "flyingMob": false,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": true,
+    "immuneToArrows": false,
+    "immuneToFallDamage": true,
+    "immuneToCactus": false,
+    "immuneToDrowning": false,
+    "immuneToLightning": false,
+    "immuneToPotions": false,
+    "immuneToPlayer": false,
+    "mobDrop": {
+      "value": "Items.ROTTEN_FLESH"
+    },
+    "livingSound": {
+      "value": "entity.zombie.ambient"
+    },
+    "hurtSound": {
+      "value": "entity.zombie.hurt"
+    },
+    "deathSound": {
+      "value": "entity.zombie.death"
+    },
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "SMOKE_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasAI": true,
+    "aiBase": "(none)",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"wander\"><field name=\"speed\">1</field><next><block type=\"look_around\"><next><block type=\"swim_in_water\"><next><block type=\"leap_at_target\"><field name=\"speed\">0.8</field><next><block type=\"attack_action\"><field name=\"callhelp\">TRUE</field><next><block type=\"attack_entity\"><field name=\"insight\">TRUE</field><field name=\"nearby\">FALSE</field><field name=\"entity\">EntityPlayer</field><next><block type=\"attack_on_collide\"><field name=\"speed\">1.2</field><field name=\"longmemory\">FALSE</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": false,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "spawnThisMob": true,
+    "doesDespawnWhenIdle": true,
+    "spawningProbability": 4,
+    "mobSpawningType": "monster",
+    "minNumberOfMobsPerGroup": 1,
+    "maxNumberOfMobsPerGroup": 30,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Doom"
+      }
+    ],
+    "spawnInDungeons": false
+  }
+}

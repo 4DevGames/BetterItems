@@ -1,0 +1,13 @@
+{
+  "group": "vannila_expansion_m",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vannila_expansion_m:amethystoreblock"
+    }
+  ],
+  "result": {
+    "item": "vannila_expansion_m:amethystgem",
+    "count": 9
+  }
+}
